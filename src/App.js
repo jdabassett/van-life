@@ -3,7 +3,7 @@ import './App.css';
 //import tools and components
 import React from 'react'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-import styled from 'styled-components'
+
 
 //import styled components
 
